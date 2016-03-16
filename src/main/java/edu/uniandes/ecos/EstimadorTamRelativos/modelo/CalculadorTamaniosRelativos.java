@@ -93,7 +93,7 @@ public class CalculadorTamaniosRelativos {
     
     //method
     /**
-     * Calcula el tamanio promedio de LOC´s en los items de una clase.
+     * Calcula el tamanio promedio de LOCs en los items de una clase.
      * 
      * @param tamLOCClase
      * @param numItems

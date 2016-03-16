@@ -60,7 +60,7 @@ public final class OperadorFunciones {
      * Calcula la desviacion estandar da la varianza ingresada por parametro
      * 
      * @param varianza
-     * @return desviación estándar
+     * @return desviacion estandar
      */
     public static double obtenerDesvEstandar(double varianza){
         double desvEstandar = Math.sqrt(varianza);
