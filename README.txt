@@ -15,4 +15,4 @@ Para descargar desde GITHUB y empaquetar proyecto siga estos pasos:
 
 Para acceder al programa desplegado en Heroku
 
-1. Desde un navegador acceda a la url https://git.heroku.com/gentle-brushlands-99163.git
+1. Desde un navegador acceda a la url http://gentle-brushlands-99163.herokuapp.com/
